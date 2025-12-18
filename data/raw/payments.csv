@@ -1,0 +1,3 @@
+business_id,payment_date,amount,status
+B001,2024-12-01,12000,Paid
+B002,2024-12-15,10000,Paid
